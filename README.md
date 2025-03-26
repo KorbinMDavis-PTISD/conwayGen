@@ -1,8 +1,8 @@
-# conwayGen\
+# conwayGen
 Generates a .dat file for the constructed UIL Computer Science Problem "Conway"
 
 
- ### Conway\
+ ### Conway
  Conway's Game of Life is a mathematical game played on a euclidean grid, and is
  a type of "Cellular Automata", i.e. discrete computational models consisting of
  cells that evolve in parallel at discrete time steps, following rules based on 
@@ -18,7 +18,8 @@ Generates a .dat file for the constructed UIL Computer Science Problem "Conway"
 - An integer value `r` ranging from 50 to 1000 (inclusive) representing the height of the game simulation
 - An integer value `c` ranging from 50 to 1000 (inclusive) representing the width of the game simulation
 - A set of data containing `1` and `0` values that determine the initial state of the game simulation
-\
+
+
 **Output:**\
 The number of living cells at the end of the simulation.
 
