@@ -13,7 +13,7 @@ Generates a .dat file for the constructed UIL Computer Science Problem "Conway"
 2. A live cell dies if it has less than 2 or more than 3 neighbors
 3. A live cell survives if it has exactly 2 or 3 neighbors
 
-**Input:**\ 
+**Input:** 
 - An integer value `n` ranging from 1 to 100 (inclusive) representing the numberof iterations of Conway's Game of Life to simulate
 - An integer value `r` ranging from 50 to 1000 (inclusive) representing the height of the game simulation
 - An integer value `c` ranging from 50 to 1000 (inclusive) representing the width of the game simulation
