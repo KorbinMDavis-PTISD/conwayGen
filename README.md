@@ -24,11 +24,17 @@ The number of living cells at the end of the simulation.
 
 **Sample Input:**
 1
+
 4
+
 5
+
 0 1 1 0 1
+
 0 0 1 0 1
+
 1 0 1 0 0
+
 1 1 0 0 1
 
 **Sample Output:**
